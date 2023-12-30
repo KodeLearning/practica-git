@@ -9,7 +9,7 @@ repositorio, deberá existir un archivo readme.md con las respuestas a las sigui
 `git reset --hard HEAD~1` porque queremos volver al commit anterior sin mantener los cambios de ese commit.
 `git reset` se utiliza para moverse entre commits, `--hard` se ocupa de eliminar los cambios de tu area de trabajo y actualizarlo al commit al que te mueves.
 `HEAD~1` mueve 'HEAD' un commit hacia atrás haciendo que nuestra area de trabajo regrese 1 commit hacia atrás recuperando los cambios de ese commit.
-Repito el comando `git reset --hard HEAD~1` porque el primero no devolvía los cambios que debía. ¿Creo que haber hecho el pull lo jodió?
+Repito el comando `git reset --hard HEAD~1` porque el primero no devolvía los cambios que debía. Debí hacer algun push de más.
 
 ### ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 Utilizo el comando `git reflog` para ver el historial de referencias a los otros commits y uso `git reset --hard ` utilizando el hash del commit que me dan para volver a él.
