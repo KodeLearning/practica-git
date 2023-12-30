@@ -1,10 +1,10 @@
-_Git_ nuestro que estás en los repos
-Comprimidos sean tus _commits_
-Venga a nosotros tu _log_
-En el local como en el _remote_
-Danos hoy nuestro _pull_ de cada día
-Perdona nuestros _conflictos_
+*Git* nuestro que estás en los repos
+Comprimidos sean tus *commits*
+Venga a nosotros tu *log*
+En el local como en el *remote*
+Danos hoy nuestro *pull* de cada día
+Perdona nuestros *conflictos*
 Como también perdonamos los de otros geeks
-No nos dejes caer en _detached HEAD_
-y líbranos de _SVN_
+No nos dejes caer en *detached HEAD*
+y líbranos de *SVN*
 `git commit --amend`
